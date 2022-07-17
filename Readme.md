@@ -1,0 +1,1 @@
+This app make for fun, like a game.
